@@ -11,3 +11,7 @@ enabled = true
   [analyzers.meta]
   import_root = "github.com/siddhant-deepsource/test-sym"
   dependencies_vendored = true
+
+[[analyzers]]
+name = "github.com/siddhant-deepsource/macro-go"
+enabled = true

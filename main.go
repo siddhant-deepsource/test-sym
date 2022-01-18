@@ -9,4 +9,5 @@ import (
 func main() {
 	fmt.Println("hello")
 	_, _ = gr.LoadCAPath("demo")
+	fmt.Println("test")
 }

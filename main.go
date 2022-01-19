@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("hello")
+	fmt.Println(" hello")
 	// TODO : hello
 	_, _ = gr.LoadCAPath("demo")
 }

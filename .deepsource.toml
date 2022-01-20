@@ -11,5 +11,5 @@ enabled = true
   dependencies_vendored = true
 
 [[analyzers]]
-name = "github.com/siddhant-deepsource/todo-checker"
+name = "github.com/siddhant-deepsource/2do-checker"
 enabled = true

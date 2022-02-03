@@ -3,12 +3,8 @@ version = 1
 exclude_patterns = ["vendor/**"]
 
 [[analyzers]]
-name = "go"
+name = "secrets"
 enabled = true
-
-  [analyzers.meta]
-  import_root = "github.com/siddhant-deepsource/test-sym"
-  dependencies_vendored = true
 
 [[analyzers]]
 name = "github.com/siddhant-deepsource/2do-checker"

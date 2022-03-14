@@ -10,4 +10,5 @@ func main() {
 	fmt.Println(" hello")
 	// TODO : hello
 	_, _ = gr.LoadCAPath("demo")
+	fmt.Println("test")
 }

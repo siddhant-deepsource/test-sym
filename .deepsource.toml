@@ -3,5 +3,9 @@ version = 1
 exclude_patterns = ["vendor/**"]
 
 [[analyzers]]
+name = "secrets"
+enabled = true
+
+[[analyzers]]
 name = "github.com/siddhant-deepsource/2do-checker"
 enabled = true
